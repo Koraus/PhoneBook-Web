@@ -1,1 +1,0 @@
-window.__NUXT__=(function(a,b){return {staticAssetsBase:"\u002FPhoneBook-Web\u002F_nuxt\u002Fstatic\u002F1676329338",layout:"default",error:a,state:{list:[],sortBy:b,searchNumber:b,numberPerPage:5,currentPage:1},serverRendered:true,routePath:"\u002F",config:{_app:{basePath:"\u002FPhoneBook-Web\u002F",assetsPath:"\u002FPhoneBook-Web\u002F_nuxt\u002F",cdnURL:a}}}}(null,""));
